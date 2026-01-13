@@ -1,8 +1,20 @@
-# PSE NE 2024 – 1º Seminário em Engenharia de Sistemas em Processos no Nordeste
+# About this work
 
-This repository contains all materials related to the work I presented at the **1º Seminário em Engenharia de Sistemas em Processos do Nordeste (PSE NE 2024)**, an academic and technical event focused on advancements in Process System Engineering. The event was held in 2024 in the city of Campina Grande, in the state of Paraíba, Brazil.
+This repository contains the materials related to the paper entitled **“Implementação de PINN Embarcada em Ambiente Software-in-the-Loop como Analisador Virtual para um Sistema de Tanques Esféricos”**.
+
+The work proposes the implementation of a Physics-Informed Neural Network (PINN) embedded in a Software-in-the-Loop (SiL) environment and applied as a virtual analyzer for a spherical tank system. By incorporating the governing physical equations of the process directly into the neural network training, the proposed approach ensures consistency with the system dynamics.
+
+This work was presented at the **1º Seminário em Engenharia de Sistemas em Processos do Nordeste (PSE NE 2024)**, an academic and technical event focused on advancements in Process System Engineering. The event was held in 2024 in the city of Campina Grande, in the state of Paraíba, Brazil.
 
 Please note that some parts of the code, such as comments and image generation functions, are written in Portuguese, as the visual outputs and documentation were tailored for a Portuguese-speaking audience.
+
+## Citation
+
+The **PSE NE 2024** was a technical and academic seminar and did not produce official published proceedings. Therefore, this work does not have a formal publication associated with the event.
+
+For citation purposes, it is recommended to cite the related and extended work presented at [SBAI 2025](https://www.sba.org.br/web/eventos/view?id=96), which builds upon the same modeling framework and methodology. The related work is entitled **“Embarque de Rede Neural Recorrente Fenomenologicamente Informada para Controle de Nível em Tanques Esféricos”** and is available at: [https://github.com/silash35/SBAI-2025-2287](https://github.com/silash35/SBAI-2025-2287).
+
+This SBAI 2025 contribution can be used as the primary reference for academic citation, as it represents a more complete and formally documented version of the methodology originally presented at PSE NE 2024.
 
 ## 📁 Folder Structure
 
